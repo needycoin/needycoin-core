@@ -1,0 +1,2 @@
+debian/bin/needycoind usr/bin
+src/needycoind usr/lib/needycoin
